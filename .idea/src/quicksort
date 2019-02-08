@@ -21,4 +21,4 @@ public static void quicksort(int A[], int izq, int der) {
         if(j+1 <der)
         quicksort(A,j+1,der); // ordenamos subarray derecho
         }
-        // retirado de http://puntocomnoesunlenguaje.blogspot.com/2012/12/java-quicksort.html
+/* retirado de http://puntocomnoesunlenguaje.blogspot.com/2012/12/java-quicksort.html */

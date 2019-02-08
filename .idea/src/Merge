@@ -95,7 +95,8 @@ class Merge
         System.out.println("Given Array");
         printArray(arr);
 
-        MergeSort ob = new MergeSort();
+        Merge ob;
+        ob = new MergeSort();
         ob.sort(arr, 0, arr.length-1);
 
         System.out.println("\nSorted array");
