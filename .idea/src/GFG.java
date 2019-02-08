@@ -35,3 +35,4 @@ public class GFG {
 }
 
 // Code Contributed by Mohit Gupta_OMG
+//https://www.geeksforgeeks.org/gnome-sort-a-stupid-one/
