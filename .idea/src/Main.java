@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Arrrays;
 import java.io*;
+
 public class main {
     public static void main(String[] args) {
         GFG gnome = new GFG();
@@ -19,6 +20,10 @@ public class main {
         catch (IOException e) {
             e.printStackTrace();
         }
+
+        Random rand = new Random();
+       for (int i = 0; i <= 9999; i++){
+           int value = 
         }
     }
 }
