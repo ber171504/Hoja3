@@ -14,7 +14,7 @@ public class Rand{
             writer = new BufferedWriter(fileWriter);
             for (int i = ; i<=2999) { // for que genera los numero y los escribe en el file
                 int numero = randomnextInt(bound:1000);
-                writer.write(int)
+                writer.write(int);
             }
 
         }
