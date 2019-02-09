@@ -1,3 +1,4 @@
+//Clase de QuickSort
 public static void quicksort(int A[], int izq, int der) {
 
         int pivote=A[izq]; // tomamos primer elemento como pivote

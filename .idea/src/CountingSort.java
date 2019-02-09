@@ -1,4 +1,5 @@
 // Java implementation of Counting Sort
+//Clase de el sort que se investigo
 class CountingSort
 {
     void sort(char arr[])

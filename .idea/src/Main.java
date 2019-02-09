@@ -12,18 +12,5 @@ public class main {
 
 
     }
-    public static int write(String nombre){
-        try {
-            File file = new File(nombre);
-            file.createNewFile()
-        }
-        catch (IOException e) {
-            e.printStackTrace();
-        }
 
-        Random rand = new Random();
-       for (int i = 0; i <= 9999; i++){
-           int value = 
-        }
-    }
 }
